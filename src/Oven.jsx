@@ -1,5 +1,7 @@
-const  = () => {
-  return (  );
+const Oven = (props) => {
+  return (
+    <div>Oven</div>
+  )
 }
- 
-export default ;
+
+export default Oven
