@@ -1,4 +1,4 @@
-function FloorPlan() {
+const FloorPlan = (props) => {
   return (
     <div>
       
