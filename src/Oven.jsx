@@ -1,7 +1,5 @@
 const Oven = (props) => {
-  return (
-    <div>Oven</div>
-  )
+  return <div>Oven</div>
 }
 
 export default Oven
